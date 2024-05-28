@@ -1,1 +1,1 @@
-# p5.js---Nicoly
+# p5.js-Nicoly
